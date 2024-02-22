@@ -1,18 +1,7 @@
 
 # Projeto de Marketing Bancário     
    
-
-## Link do projeto.
-<div align="left">  
-<a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
-
-## Índice
-- <a href="#linguaguagem">Línguagem Utilizada</a>
-- <a href="#problema">Problema Apresentado</a>
-- <a href="target#">Nosso Target<a>
-
-
-## Línguagem Utilizada   
+### Línguagem Utilizada   
 https://www.python.org/
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +19,7 @@ Treinamento do Modelo: Utilizamos a biblioteca scikit-learn para treinar um mode
 
 Avaliação do Modelo: Após o treinamento, o modelo é avaliado utilizando os dados de teste. Diversas métricas de avaliação podem ser calculadas para entender a precisão do modelo em prever a participação dos clientes na campanha de marketing.
 
-Interpretação dos Resultados: Por fim, analisamos a importância relativa das características dos clientes no modelo treinado. Isso nos permite entender quais atributos dos clientes têm maior influência na decisão de participar ou não da campanha de marketing.
+Interpretação dos Resultados: analisamos as características dos clientes durante a análise. Isso nos permite entender quais atributos dos clientes têm maior influência na decisão de participar ou não da campanha de marketing.
 
 # Nosso Target
 - O que é um depósito a prazo?
@@ -44,5 +33,8 @@ Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de p
 Em alguns casos, os investidores podem solicitar a rescisão antecipada de um depósito a prazo. No entanto, isso geralmente resulta em penalidades, como a redução da taxa de juros ou a perda de parte dos juros ganhos até o momento. Além disso, a instituição financeira pode exigir aviso prévio para processar a rescisão antecipada .
 
 
+## Link do projeto.
+<div align="left">  
+<a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
 
