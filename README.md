@@ -42,7 +42,7 @@ Avaliação do Modelo: Após o treinamento, o modelo é avaliado utilizando os d
 
 Interpretação dos Resultados: Por fim, analisamos a importância relativa das características dos clientes no modelo treinado. Isso nos permite entender quais atributos dos clientes têm maior influência na decisão de participar ou não da campanha de marketing.
 
-# Introdução a nossa variável
+# Nosso Target
 - O que é um depósito a prazo?
  Um depósito a prazo é uma forma de investimento em que o investidor deposita uma quantia fixa de dinheiro em uma instituição financeira por um período de tempo específico, conhecido como prazo . Durante esse período, o dinheiro fica bloqueado e não pode ser retirado até o vencimento do prazo. Em troca, o investidor recebe uma taxa de juros fixa ou variável sobre o valor depositado .
 
