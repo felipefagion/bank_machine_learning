@@ -1,15 +1,6 @@
 
-# Projeto de Marketing Bancário     
-   
-### Línguagem Utilizada   
-https://www.python.org/
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-# O modelo
-### Vamos útilizar á árvore de precisão para prever qual tipo de cliente, participou da ultima campanha de marketing e qual suas caractetisticas
-Utilizando uma Árvore de Decisão para Prever a Participação de Clientes em Campanhas de Marketing
-Para prever quais tipos de clientes participaram da última campanha de marketing e entender suas características, podemos empregar uma abordagem baseada em árvores de decisão. Este processo envolve várias etapas fundamentais:
+# Introdução  
+Trata-se de uma campanha de marketing com quem fez um investimento a longo prazo. O modelo trata-se de uma previsão para que, a partir de novos dados, possam saber qual será seu público-alvo e o que pode ter levado os clientes a depositar ou não, para as próximas campanhas ser de melhor destaque .
 
 # Nosso Target
 - O que é um depósito a prazo?
@@ -19,6 +10,18 @@ Para prever quais tipos de clientes participaram da última campanha de marketin
 Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
 - Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
 - Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
+
+### Línguagem Utilizada   
+https://www.python.org/
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+# O Modelo
+### Vamos útilizar á árvore de precisão para prever qual tipo de cliente, participou da ultima campanha de marketing e qual suas caractetisticas
+Utilizando uma Árvore de Decisão para Prever a Participação de Clientes em Campanhas de Marketing
+Para prever quais tipos de clientes participaram da última campanha de marketing e entender suas características, podemos empregar uma abordagem baseada em árvores de decisão. Este processo envolve várias etapas fundamentais:
+
+
 
 ## Link do projeto.
 <div align="left">  
