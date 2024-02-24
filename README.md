@@ -7,7 +7,7 @@ Esta é uma campanha de marketing direcionada aos investidores de curto e longo 
 
 ## Nosso Target
 - O que é um depósito a prazo?
-  Um depósito a prazo é uma forma de investimento em que o investidor deposita uma quantia fixa de dinheiro em uma instituição financeira por um período de tempo específico, conhecido como prazo . Durante esse período, o dinheiro fica bloqueado e não pode ser retirado até o vencimento do prazo. Em troca, o investidor recebe uma taxa de juros fixa ou variável sobre o valor depositado .
+O que distingue o depósito a prazo da conta à ordem que movimenta diariamente é, justamente, o facto de este tipo de depósito normalmente não poder ser movimentado, pelo menos durante um determinado período de tempo.
 
 - Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a vários anos .
 Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
