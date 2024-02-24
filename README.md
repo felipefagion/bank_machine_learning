@@ -1,3 +1,4 @@
+![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
 
 # Introdução  
 Trata-se de uma campanha de marketing com quem fez um investimento a longo prazo. O modelo trata-se de uma previsão para que, a partir de novos dados, possam saber qual será seu público-alvo e o que pode ter levado os clientes a depositar ou não, para as próximas campanhas ser de melhor destaque .
@@ -27,5 +28,5 @@ https://www.python.org/
 <div align="left">  
 <a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
-![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
+
 
