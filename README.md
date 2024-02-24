@@ -2,11 +2,11 @@
 ![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
 
 ## Introdução  
-Trata-se de uma campanha de marketing com quem fez um investimento a longo prazo. O modelo trata-se de uma previsão para que, a partir de novos dados, possam saber qual será seu público-alvo e o que pode ter levado os clientes a depositar ou não, para as próximas campanhas ser de melhor destaque .
+Esta é uma campanha de marketing direcionada aos investidores de longo prazo. O modelo é projetado para aprender com os dados existentes, permitindo prever o público-alvo e identificar os fatores que influenciam os clientes a realizar ou não depósitos. Essas informações serão essenciais para destacar futuras campanhas de marketing.
 
 ## Nosso Target
 - O que é um depósito a prazo?
- Um depósito a prazo é uma forma de investimento em que o investidor deposita uma quantia fixa de dinheiro em uma instituição financeira por um período de tempo específico, conhecido como prazo . Durante esse período, o dinheiro fica bloqueado e não pode ser retirado até o vencimento do prazo. Em troca, o investidor recebe uma taxa de juros fixa ou variável sobre o valor depositado .
+  Um depósito a prazo é uma forma de investimento em que o investidor deposita uma quantia fixa de dinheiro em uma instituição financeira por um período de tempo específico, conhecido como prazo . Durante esse período, o dinheiro fica bloqueado e não pode ser retirado até o vencimento do prazo. Em troca, o investidor recebe uma taxa de juros fixa ou variável sobre o valor depositado .
 
 - Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a vários anos .
 Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
