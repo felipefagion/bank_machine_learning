@@ -3,7 +3,7 @@
 
 
 ## Introdução  
-Esta é uma campanha de marketing direcionada aos investidores de longo prazo. O modelo é projetado para aprender com os dados existentes, permitindo prever o público-alvo e identificar os fatores que influenciam os clientes a realizar ou não depósitos. Essas informações serão essenciais para destacar futuras campanhas de marketing.
+Esta é uma campanha de marketing direcionada aos investidores de curto e longo prazo. O modelo é projetado para aprender com os dados existentes, permitindo futuralmente prever o público-alvo e identificar os fatores que influenciam os clientes a realizar ou não depósitos. Essas informações serão essenciais para destacar futuras campanhas de marketing.
 
 ## Nosso Target
 - O que é um depósito a prazo?
