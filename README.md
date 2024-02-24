@@ -1,6 +1,6 @@
 # Melhorias na Estratégia de Marketing para Depósitos Bancários
 ![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
-![image](https://github.com/felipefagion/MLearning/assets/156556520/9c63f751-4a82-44c8-bddb-75829998f4dd)
+
 
 ## Introdução  
 Esta é uma campanha de marketing direcionada aos investidores de longo prazo. O modelo é projetado para aprender com os dados existentes, permitindo prever o público-alvo e identificar os fatores que influenciam os clientes a realizar ou não depósitos. Essas informações serão essenciais para destacar futuras campanhas de marketing.
