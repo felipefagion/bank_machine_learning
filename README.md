@@ -14,10 +14,9 @@ Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de p
 - Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
 - Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
 
-## O Modelo
-### Vamos útilizar á árvore de precisão para prever qual tipo de cliente, participou da ultima campanha de marketing e qual suas caractetisticas
-Utilizando uma Árvore de Decisão para Prever a Participação de Clientes em Campanhas de Marketing
-Para prever quais tipos de clientes participaram da última campanha de marketing e entender suas características, podemos empregar uma abordagem baseada em árvores de decisão. Este processo envolve várias etapas fundamentais:
+# O Modelo
+Utilizarei um Modelo de Classificação e o Algoritmo de Árvore de Decisão para Entender a Participação dos Clientes na Última Campanha de Marketing e Compreender Suas Características 
+
 
 
 ## Línguagem Utilizada   
