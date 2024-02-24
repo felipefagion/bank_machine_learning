@@ -14,15 +14,17 @@ Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de p
 - Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
 - Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
 
-# O Modelo
-Utilizarei um Modelo de Classificação e o Algoritmo de Árvore de Decisão para Entender a Participação dos Clientes na Última Campanha de Marketing e Compreender Suas Características 
-
-
+## O Modelo
+- Utilizarei um modelo de classificação e o algoritmo de árvore de decisão para entender a participação dos clientes na última campanha de marketing e compreender suas características .
 
 ## Línguagem Utilizada   
-https://www.python.org/
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
 
 
 ## Link do Projeto.
