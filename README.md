@@ -24,5 +24,3 @@ Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de p
 <div align="left">  
 <a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
-
-<img src="dashboard.gif" alt="Descrição da Imagem">
