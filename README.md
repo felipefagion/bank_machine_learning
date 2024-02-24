@@ -6,7 +6,7 @@ https://www.python.org/
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-##O modelo
+## O modelo
 ### Vamos útilizar á árvore de precisão para prever qual tipo de cliente, participou da ultima campanha de marketing e qual suas caractetisticas
 Utilizando uma Árvore de Decisão para Prever a Participação de Clientes em Campanhas de Marketing
 Para prever quais tipos de clientes participaram da última campanha de marketing e entender suas características, podemos empregar uma abordagem baseada em árvores de decisão. Este processo envolve várias etapas fundamentais:
