@@ -1,4 +1,4 @@
-# Estratégia de Marketing para Depósitos Bancários
+# Marketing para Depósitos Bancários
 ![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
 
 
@@ -10,7 +10,7 @@ Esta é uma campanha de marketing direcionada aos investidores de curto e longo 
 A diferença crucial entre um depósito a prazo e uma conta à ordem, que permite movimentações diárias, reside no fato de que o depósito a prazo geralmente não pode ser movimentado, pelo menos por um período determinado
 
 - Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a anos .
-Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
+- Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
 - Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
 - Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
 
