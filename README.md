@@ -7,9 +7,9 @@ Esta é uma campanha de marketing direcionada aos investidores de curto e longo 
 
 ## Nosso Target
 - O que é um depósito a prazo?
-O que distingue o depósito a prazo da conta à ordem que movimenta diariamente é, justamente, o facto de este tipo de depósito normalmente não poder ser movimentado, pelo menos durante um determinado período de tempo.
+A diferença crucial entre um depósito a prazo e uma conta à ordem, que permite movimentações diárias, reside no fato de que o depósito a prazo geralmente não pode ser movimentado, pelo menos por um período determinado
 
-- Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a vários anos .
+- Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a anos .
 Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
 - Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
 - Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
