@@ -30,7 +30,7 @@ https://www.python.org/
 <div align="left">  
 <a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
-## Link do com Vídeo Dashboard interativo .
+## Link do com Vídeo Dashboard Interativo .
 <div align="left">  
-<a href="https://github.com/felipefagion/MLearning/blob/main/ProjetoMl.ipynb" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
+<a href="https://github.com/felipefagion/MLearning/blob/main/dash_boardmarket.gif" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"</a>
 
