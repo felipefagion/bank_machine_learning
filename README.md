@@ -1,30 +1,50 @@
-# Marketing para Depósitos Bancários
-![image](https://github.com/felipefagion/MLearning/assets/156556520/b88a51a2-9522-42d0-96ed-145d8f0e7b36)
+# Marketing Bancário 💰💲
 
+## Introdução
+Este projeto visa analisar dados relacionados a campanhas de marketing bancário, focando na compreensão das características dos clientes que influenciam suas decisões de depósito. O modelo é projetado para aprender com os dados existentes, permitindo prever o público-alvo e identificar fatores que impactam a adesão a depósitos a prazo.
 
-## Introdução  
-Esta é uma campanha de marketing direcionada aos investidores de curto e longo prazo. O modelo é projetado para aprender com os dados existentes, permitindo futuralmente prever o público-alvo e identificar os fatores que influenciam os clientes a realizar ou não depósitos. Essas informações serão essenciais para destacar futuras campanhas de marketing.
+## 📊 Variáveis Trabalhadas
+- **Age**: Idade do cliente.
+- **Job**: Tipo de trabalho do cliente.
+- **Marital**: Estado civil do cliente.
+- **Education**: Nível de educação do cliente.
+- **Default**: Indicador se o cliente está com crédito inadimplente.
+- **Balance**: Saldo médio anual do cliente em euros.
+- **Housing**: Indicador se o cliente possui empréstimo habitacional.
+- **Loan**: Indicador se o cliente possui empréstimo pessoal.
+- **Day**: Último dia de contato do mês.
+- **Month**: Último mês de contato do ano.
+- **Duration**: Duração do último contato, em segundos.
+- **Campaign**: Número de contatos realizados durante esta campanha para este cliente, incluindo o último contato.
+- **Pdays**: Dias desde que o cliente foi contatado pela última vez em uma campanha anterior (-1 indica que não foi contatado anteriormente).
+- **Previous**: Número de contatos realizados antes desta campanha para este cliente.
+- **Poutcome**: Resultado da campanha de marketing anterior.
 
-## Nosso Target
-- O que é um depósito a prazo?
-A diferença crucial entre um depósito a prazo e uma conta à ordem, que permite movimentações diárias, reside no fato de que o depósito a prazo geralmente não pode ser movimentado, pelo menos por um período determinado
+### Variável Alvo
+- **Depositou (y)**: O cliente subscreveu a um depósito a prazo?
 
-- Prazo: Os depósitos a prazo geralmente têm prazos fixos que variam de alguns meses a anos .
-- Taxa de juros: Eles oferecem taxas de juros mais atrativas do que as contas de poupança tradicionais, proporcionando uma oportunidade de ganho adicional .
-- Acesso limitado: Durante o prazo do depósito, o acesso ao dinheiro é limitado. Geralmente, não é possível fazer retiradas ou saques antecipados sem penalidades .
-- Segurança: São considerados investimentos de baixo risco, pois são protegidos por garantias do governo ou seguros de depósito oferecidos por instituições financeiras .
+## 📂 Fonte dos Dados
+- **Bank Marketing Classification Dataset**:  
+  Disponível no Kaggle: [Bank Marketing Dataset](https://www.kaggle.com/datasets/adilashrafi/bank-marketing-classification-task)
 
-## O Modelo
-- Utilizarei um modelo de classificação e o algoritmo de árvore de decisão para entender a participação dos clientes na última campanha de marketing e compreender suas características .
+## 💻 Linguagem Utilizada
+- **Python**
 
-## Línguagem Utilizada   
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</a>
+## 📚 Bibliotecas Utilizadas
 
+- **Tratamento de Dados**:
+  - `pandas`: Para manipulação e análise de dados.
+  - `numpy`: Para operações matemáticas e numéricas.
 
+- **Visualização de Dados**:
+  - `seaborn`: Para criação de gráficos estatísticos.
+  - `matplotlib`: Para visualização de dados.
 
-
+- **Modelagem**:
+  - `DecisionTreeClassifier`: Para modelagem de classificação.
+  - `train_test_split`: Para dividir os dados em conjuntos de treino e teste.
+  - `metrics`: Para avaliação do modelo.
+  - `accuracy_score`, `classification_report`: Para métricas de desempenho do modelo.
 
 
 ## Link do Projeto.
